@@ -1,7 +1,7 @@
 #include "main.h"
 /**
- * main - Print _putchar
- *is written by nawawi
+ * main - prin _putchar
+ * is written by nawawi
  * Return: Always 0
  */
 
